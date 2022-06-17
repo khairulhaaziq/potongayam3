@@ -1,0 +1,21 @@
+<svg width="145" height="304" viewBox="0 0 145 304" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M143.852 196.655L76.1846 0.618638L65.1562 3.9751L0.629288 26.8075L64.2169 217.575L132.762 199.599L132.764 199.599L143.852 196.655Z" fill="white" stroke="black"/>
+<path d="M64 217.419L92.0271 301.5L94.5 302.5L115 297L85.5 212H83.8107L64 217.419Z" fill="white"/>
+<path d="M83.8107 212L112.838 296.081M83.8107 212L64 217.419L92.0271 301.5M83.8107 212H85.5L115 297M112.838 296.081L92.0271 301.5M112.838 296.081L115 297M92.0271 301.5L94.5 302.5L115 297" stroke="black"/>
+<mask id="mask0_87_39" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="14" y="30" width="11" height="11">
+<circle cx="19.5" cy="35.5" r="5" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask0_87_39)">
+<rect x="37.9132" y="-122.473" width="572.872" height="383.025" transform="rotate(11.0207 37.9132 -122.473)" fill="white"/>
+<rect x="37.9132" y="-122.473" width="572.872" height="383.025" transform="rotate(11.0207 37.9132 -122.473)" fill="url(#pattern0)"/>
+</g>
+<circle cx="19.5" cy="35.5" r="5" stroke="black"/>
+<circle cx="81.5" cy="239.5" r="3" stroke="black"/>
+<circle cx="93.5" cy="276.5" r="3" stroke="black"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.0473102" height="0.0707597">
+<use xlink:href="#image0_87_39" transform="translate(0.0473102) scale(0.000295689) rotate(90)"/>
+</pattern>
+<image id="image0_87_39" width="160" height="160" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJ0SURBVHgB7dgxbsJAFEVRO7tgtSGrZRnEDWWKeEa6vzinAfQ7dGVZ73y/Xu+DXX7Ox+P5+XH9t9/Xx9P97/vXwS7iunEX4B7iunkX4DpxLdxP74Brrj/3/HwX1//vnoCbiOveXYAbiOv+XYCLxLV29w64l7jsgBlx2QEz4rIDZsRlB+zYAe2AI4jLDpgRlx0wIy474CTisgNmxGUHzIjLDpgRlx2wYwe0A44gLjtgRlx2wIy47ICTiMsOmBGXHTAjLjtgRlx2wI4d0A44grjsgBlx2QEz4rIDTiIuO2BGXHbAjLjsgBlx2QE7dkA74AjisgNmxGUHzIjLDjiJuOyAGXHZATPisgNmxGUH7NgB7YAjiMsOmBGXHTAjLjvgJOKyA2bEZQfMiMsOmBGXHbBjB7QDjiAuO2BGXHbAjLjsgJOIyw6YEZcdMCMuO2BGXHbAjh3QDjiCuOyAGXHZATPisgNOIi47YEZcdsCMuOyAGXHZATt2QDvgCOKyA2bEZQfMiMsOOIm47IAZcdkBM+KyA2bEZQfs2AHtgCOIyw6YEZcdMCOuxR3wYIl36DWegKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCkBEhKgKR+AVh659OWTnkeAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

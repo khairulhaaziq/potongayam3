@@ -1,0 +1,24 @@
+<svg width="319" height="319" viewBox="0 0 319 319" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_63_85" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="319" height="319">
+<rect x="1" y="1" width="317" height="317" fill="#FFE7E7" stroke="black" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0_63_85)">
+<rect width="319" height="319" fill="#FFE7E7"/>
+<path d="M-41.7677 328.908L-195.878 194.564L360.768 62.092L514.878 196.436L-41.7677 328.908Z" fill="#F5F5F5" stroke="black" stroke-width="2"/>
+<path d="M-41.7399 312.908L-195.875 178.865L350.74 49.0916L504.875 183.135L-41.7399 312.908Z" fill="white" stroke="black" stroke-width="2"/>
+<path d="M101.706 246.907L17 172.99L17 163.009L214.57 116.091L300 190.22V199.206L101.706 246.907Z" fill="#F5F5F5" stroke="black" stroke-width="2"/>
+<path d="M102.431 235.909L18.1272 162.677L214.569 116.091L298.873 189.323L102.431 235.909Z" fill="#F5F5F5" stroke="black" stroke-width="2"/>
+<path d="M196.234 187.906L142.103 140.132L183.766 130.094L237.897 177.868L196.234 187.906Z" fill="white" stroke="black" stroke-width="2"/>
+<path d="M258.195 214.905L221.083 182.755L238.616 178.1L275.835 209.478L275.434 210.666L258.195 214.905Z" fill="#F5F5F5" stroke="black" stroke-width="2"/>
+<path d="M258.005 212.905L222.091 180.958L237.995 177.095L273.909 209.042L258.005 212.905Z" fill="#F5F5F5" stroke="black" stroke-width="2"/>
+<mask id="mask1_63_85" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="206" y="134" width="62" height="44">
+<path d="M252.209 176.297L208.918 138.524L221.699 135.479L264.99 173.253L252.209 176.297Z" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+</mask>
+<g mask="url(#mask1_63_85)">
+<path d="M206.797 138.001L221.968 134.387L267.111 173.776L251.94 177.389L206.797 138.001Z" fill="white"/>
+<path d="M251.412 180.91L208.12 143.137L220.901 140.092L264.193 177.865L251.412 180.91Z" stroke="black" stroke-width="2"/>
+<path d="M252.209 176.297L208.918 138.524L221.699 135.479L264.99 173.253L252.209 176.297Z" stroke="black" stroke-width="2"/>
+</g>
+<rect x="1" y="1" width="317" height="317" stroke="black" stroke-width="2"/>
+</g>
+</svg>
